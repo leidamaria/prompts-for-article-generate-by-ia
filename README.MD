@@ -4,7 +4,7 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
-Estou aprendendo muito fazendo este curso e também me divertindo muito. Foi prazeroso e divertido fazer <a href="https://web.dio.me/articles/explorando-power-fx-a-magia-das-formulas-no-microsoft-power-apps?back=%2Farticles&page=1&order=oldest" title="View PDF now">este artigo</a>
+Estou aprendendo muito fazendo este curso e também me divertindo muito. Foi prazeroso e divertido fazer <a href="https://web.dio.me/articles/explorando-power-fx-a-magia-das-formulas-no-microsoft-power-apps?back=%2Farticles&page=1&order=oldest" title="View PDF now">este artigo</a>.
 
 ## Tecnologias utilizadas no projeto
 
@@ -19,10 +19,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Comporte-se como um escritor de artigos tech da linguagem Power Fx utilizada no MS Power Apps e escreva um artigo entendendo as regras abaixo
+                                                                                                                                                                                                   |
+| conteúdo | {REGRAS]
 
-
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos a serem criados estão abaixo
+- Introdução a linguagem Power Fx
+- As funções mais utilizadas do Power Fx
+- As funções para validação de dados de entrada
+- As funções para trabalhar com datas
+- As funções para trabalhar com textos
+- As funções de cálculos matemáticos
+ |
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
