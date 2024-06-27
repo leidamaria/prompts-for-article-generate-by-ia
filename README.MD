@@ -31,7 +31,8 @@ Lexica.art：
 
 Banners produzidos:
 
-Os banners utilizados no artigo estão disponíveis em .github/assets
+Os banners utilizados no artigo estão disponíveis em <a href=".github/assets">.github/assets</a>
+
 
 ## Features
 
