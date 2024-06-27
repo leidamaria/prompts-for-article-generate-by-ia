@@ -32,14 +32,14 @@ ChatGPT：
 - As funções para trabalhar com datas
 - As funções para trabalhar com textos
 - As funções de cálculos matemáticos
-                                                                                                                                                                                                   |
+                                   |                                                                                                                                                                 |
 | conteúdo | 
  |
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+ Low-code; Power FX
 
 
 
