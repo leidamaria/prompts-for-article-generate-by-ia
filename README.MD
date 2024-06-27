@@ -1,12 +1,5 @@
 <p align="center">
-    <img width="500" src=".github/assets/01_Título.png">
-</p>
-
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
+    <img width="800" src=".github/assets/01_Título.png">
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
