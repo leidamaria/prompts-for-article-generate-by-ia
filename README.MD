@@ -19,10 +19,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Comporte-se como um escritor de artigos tech da linguagem Power Fx utilizada no MS Power Apps e escreva um artigo entendendo as regras abaixo
-
-{REGRAS]
-
+|  título  | Comporte-se como um escritor de artigos tech da linguagem Power Fx utilizada no MS Power Apps e escreva um artigo entendendo as regras abaixo <br> {REGRAS]<br>
 > No máximo 5 linhas por blocos de explicação
 > Me explique de maneira informal, como se eu fosse uma criança de 10 anos
 > Os blocos a serem criados estão abaixo
