@@ -20,10 +20,11 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Comporte-se como um escritor de artigos tech da linguagem Power Fx utilizada no MS Power Apps e escreva um artigo entendendo as regras abaixo <br><br> {REGRAS] <br><br> No máximo 5 linhas por blocos de explicação<br>Me explique de maneira informal, como se eu fosse uma criança de 10 anos <br> Os blocos a serem criados estão abaixo: <br><br> - Introdução a linguagem Power Fx <br> - As funções mais utilizadas do Power Fx <br> - As funções para validação de dados de entrada <br> - As funções para trabalhar com datas <br> - As funções para trabalhar com textos <br> - As funções de cálculos matemáticos
+|  título  | Comporte-se como um escritor de artigos tech da linguagem Power Fx utilizada no MS Power Apps e escreva um artigo entendendo as regras abaixo <br><br> {REGRAS] <br><br> No máximo 5 linhas por blocos de explicação<br>Me explique de maneira informal, como se eu fosse uma criança de 10 anos <br> Os blocos a serem criados estão abaixo: <br><br> - Introdução a linguagem Power Fx <br> - As funções mais utilizadas do Power Fx <br> - As funções para validação de dados de entrada <br> - As funções para trabalhar com datas <br> - As funções para trabalhar com textos <br> - As funções de cálculos matemáticos
                                 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram: <b>Low-code</b> e <b>Power FX</b>
+- No léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram: <b>Low-code</b> e <b>Power FX</b>
 
 ## Features
 
@@ -34,5 +35,3 @@ Lexica.art：
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
