@@ -27,7 +27,7 @@ ChatGPT：
                                 
 Lexica.art：
 
-- No Léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram: <b><i>Low-code</i></b> e <b<i>Power FX</i></b>
+- No Léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram: <b><i>Low-code</i></b> e <b><i>Power FX</i></b>
 
 ## Features
 
@@ -38,3 +38,4 @@ Lexica.art：
 <p>
 
 ---
+by <i>Leida Maria</i>
