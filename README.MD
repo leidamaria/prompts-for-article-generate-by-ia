@@ -31,7 +31,8 @@ Lexica.art：
 
 Banners produzidos:
 
-Os banners utilizados no artigo estão disponíveis em 
+Os banners utilizados no artigo estão disponíveis em .github/assets
+
 ## Features
 
 - Conteúdo gerado via ChatGPT
