@@ -29,6 +29,16 @@ Lexica.art：
 
 - No Léxica foi utilizado o acervo público de imagens geradas por outras pessoas, os termos de pesquisa foram: <b><i>Low-code</i></b> e <b><i>Power FX</i></b>
 
+Banners produzidos:
+
+|Sequência| Banner
+
+| :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    1    | 
+|    2    | 
+|    3    | 
+|    4    | 
+
 ## Features
 
 - Conteúdo gerado via ChatGPT
