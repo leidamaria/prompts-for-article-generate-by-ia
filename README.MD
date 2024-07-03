@@ -2,7 +2,7 @@
     <img width="800" src=".github/assets/01_Título.png">
 </p>
 
-# Projeto artigo técnico gerado por I.A.s
+## Projeto artigo técnico gerado por I.A.s
 
 Estou aprendendo muito fazendo este curso e também me divertindo muito. Foi prazeroso e divertido fazer o artigo <a href="https://web.dio.me/articles/explorando-power-fx-a-magia-das-formulas-no-microsoft-power-apps?back=%2Farticles&page=1&order=oldest" title="View PDF now">Power Apps - Explorando a Linguagem Fx</a>.
 
